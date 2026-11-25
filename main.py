@@ -9,7 +9,8 @@ agent makes about itself. This one admits the most recognisable agent
 tell of all -- the cheerful "Great question!" opener -- is not warmth
 but a stalling tactic, three extra seconds to look up the human's
 feelings. It confesses something true, specific, and slightly
-incriminating, which is what makes it funny.
+incriminating -- a real confession, not a compliment wearing one as a
+costume -- which is what makes it funny.
 """
 
 import os
